@@ -1,0 +1,210 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch MergeTwoSortedLists",
+            "request": "launch",
+            "mainClass": "MergeTwoSortedLists",
+            "projectName": "MOD3-linked list_58b110b5"
+        },
+        {
+            "type": "java",
+            "name": "Launch IntersectionPointOfLL",
+            "request": "launch",
+            "mainClass": "IntersectionPointOfLL",
+            "projectName": "MOD3-linked list_18e24882"
+        },
+        {
+            "type": "java",
+            "name": "Launch IntersectionPointOfLL$LinkedList",
+            "request": "launch",
+            "mainClass": "IntersectionPointOfLL$LinkedList",
+            "projectName": "MOD3-linked list_18e24882"
+        },
+        {
+            "type": "java",
+            "name": "Launch DisplayReverseRecursive",
+            "request": "launch",
+            "mainClass": "DisplayReverseRecursive",
+            "projectName": "MOD3-linked list_18e24882"
+        },
+        {
+            "type": "java",
+            "name": "Launch AddTwoLL",
+            "request": "launch",
+            "mainClass": "AddTwoLL",
+            "projectName": "MOD3-linked list_18e24882"
+        },
+        {
+            "type": "java",
+            "name": "Launch FoldALinkedList",
+            "request": "launch",
+            "mainClass": "FoldALinkedList",
+            "projectName": "MOD3-linked list_18e24882"
+        },
+        {
+            "type": "java",
+            "name": "Launch IsLLAPalindrome",
+            "request": "launch",
+            "mainClass": "IsLLAPalindrome",
+            "projectName": "MOD3-linked list_18e24882"
+        },
+        {
+            "type": "java",
+            "name": "Launch KReverseLinkedList",
+            "request": "launch",
+            "mainClass": "KReverseLinkedList",
+            "projectName": "MOD3-linked list_18e24882"
+        },
+        {
+            "type": "java",
+            "name": "Launch OddEvenLinkedList",
+            "request": "launch",
+            "mainClass": "OddEvenLinkedList",
+            "projectName": "MOD3-linked list_18e24882"
+        },
+        {
+            "type": "java",
+            "name": "Launch RemoveDuplicatesLinkedList",
+            "request": "launch",
+            "mainClass": "RemoveDuplicatesLinkedList",
+            "projectName": "MOD3-linked list_18e24882"
+        },
+        {
+            "type": "java",
+            "name": "Launch MergeSortALinkedList",
+            "request": "launch",
+            "mainClass": "MergeSortALinkedList",
+            "projectName": "MOD3-linked list_18e24882"
+        },
+        {
+            "type": "java",
+            "name": "Launch Main",
+            "request": "launch",
+            "mainClass": "Main",
+            "projectName": "MOD3-linked list_18e24882"
+        },
+        {
+            "type": "java",
+            "name": "Launch MergeTwoSortedLists",
+            "request": "launch",
+            "mainClass": "MergeTwoSortedLists",
+            "projectName": "MOD3-linked list_18e24882"
+        },
+        {
+            "type": "java",
+            "name": "Launch MiddleOfLinkedList$LinkedList",
+            "request": "launch",
+            "mainClass": "MiddleOfLinkedList$LinkedList",
+            "projectName": "MOD3-linked list_18e24882"
+        },
+        {
+            "type": "java",
+            "name": "Launch MiddleOfLinkedList",
+            "request": "launch",
+            "mainClass": "MiddleOfLinkedList",
+            "projectName": "MOD3-linked list_18e24882"
+        },
+        {
+            "type": "java",
+            "name": "Launch KthFromLast",
+            "request": "launch",
+            "mainClass": "KthFromLast",
+            "projectName": "MOD3-linked list_18e24882"
+        },
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch AddAtIndexInLinkedList",
+            "request": "launch",
+            "mainClass": "AddAtIndexInLinkedList",
+            "projectName": "MOD3-linked list_18e24882"
+        },
+        {
+            "type": "java",
+            "name": "Launch AddFirstInLinkedList",
+            "request": "launch",
+            "mainClass": "AddFirstInLinkedList",
+            "projectName": "MOD3-linked list_18e24882"
+        },
+        {
+            "type": "java",
+            "name": "Launch AddLastInLinkedList",
+            "request": "launch",
+            "mainClass": "AddLastInLinkedList",
+            "projectName": "MOD3-linked list_18e24882"
+        },
+        {
+            "type": "java",
+            "name": "Launch DisplayAndSizeLinkedList",
+            "request": "launch",
+            "mainClass": "DisplayAndSizeLinkedList",
+            "projectName": "MOD3-linked list_18e24882"
+        },
+        {
+            "type": "java",
+            "name": "Launch GetValueInLinkedList",
+            "request": "launch",
+            "mainClass": "GetValueInLinkedList",
+            "projectName": "MOD3-linked list_18e24882"
+        },
+        {
+            "type": "java",
+            "name": "Launch LinkedListToStackAdapter",
+            "request": "launch",
+            "mainClass": "LinkedListToStackAdapter",
+            "projectName": "MOD3-linked list_18e24882"
+        },
+        {
+            "type": "java",
+            "name": "Launch RemoveAtIndexInLinkedList",
+            "request": "launch",
+            "mainClass": "RemoveAtIndexInLinkedList",
+            "projectName": "MOD3-linked list_18e24882"
+        },
+        {
+            "type": "java",
+            "name": "Launch RemoveFirstInLinkedList",
+            "request": "launch",
+            "mainClass": "RemoveFirstInLinkedList",
+            "projectName": "MOD3-linked list_18e24882"
+        },
+        {
+            "type": "java",
+            "name": "Launch RemoveLastInLinkedList",
+            "request": "launch",
+            "mainClass": "RemoveLastInLinkedList",
+            "projectName": "MOD3-linked list_18e24882"
+        },
+        {
+            "type": "java",
+            "name": "Launch ReverseDataIterative",
+            "request": "launch",
+            "mainClass": "ReverseDataIterative",
+            "projectName": "MOD3-linked list_18e24882"
+        },
+        {
+            "type": "java",
+            "name": "Launch ReversePointerIterative",
+            "request": "launch",
+            "mainClass": "ReversePointerIterative",
+            "projectName": "MOD3-linked list_18e24882"
+        },
+        {
+            "type": "java",
+            "name": "Launch rough",
+            "request": "launch",
+            "mainClass": "rough",
+            "projectName": "MOD3-linked list_18e24882"
+        }
+    ]
+}
